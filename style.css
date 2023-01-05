@@ -1,0 +1,31 @@
+.recipes{
+    color: red;
+    font-size: 25px;
+    text-align: left;
+}
+
+.header{
+    text-align: center;
+    color:aqua;
+    background-color: black;
+    font-weight: bold;
+}
+
+.img{
+    margin: auto;
+    display: block;
+    height: 300px;
+    width: auto;
+}
+
+
+.ing,
+.steps{
+    color: red;
+    
+}
+
+p{
+    font-weight: bold;
+    text-align: center;
+}
